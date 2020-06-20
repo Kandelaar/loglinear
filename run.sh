@@ -1,0 +1,1 @@
+python3 main.py -train_file './train.csv' -test_file './test.csv'
